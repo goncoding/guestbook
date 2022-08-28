@@ -23,6 +23,8 @@ class MemberRepositoryTest {
     @Autowired
     MemberRepository memberRepository;
 
+
+
     @Test
     public void test01() throws Exception {
         //given
